@@ -1,5 +1,5 @@
 # Implementation of TCP-Fit in ns-3
-## Course Code: CS821
+## Course Code: CS703
 ## Mini Project
 
 ### Overview
